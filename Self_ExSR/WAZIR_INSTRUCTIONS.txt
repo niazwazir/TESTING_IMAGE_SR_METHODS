@@ -1,4 +1,0 @@
-PLZ UNZIP ALL FOLDERS.
-ALSO UNZIP INSIDE FOLDERS
-RUN sr_quant_eval
-Run sr_demo_batch
