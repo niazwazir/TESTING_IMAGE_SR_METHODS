@@ -1,0 +1,6 @@
+FIRSt OF ALL UNZIP ALL FOLDERS
+
+THEN RUN Demo_SR.m
+
+HERE IS LINK WHERE I GOT THIS CODE
+https://github.com/huangzehao/SCN_Matlab.git
