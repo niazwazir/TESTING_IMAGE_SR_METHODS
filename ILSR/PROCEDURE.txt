@@ -1,0 +1,4 @@
+PROCEDURE
+First Download
+Put your test Image in Set5
+Check output in result/set5
