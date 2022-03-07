@@ -1,0 +1,4 @@
+THIS CODE IS RDOWNLOADED FROM https://github.com/sitharavpk/Adaptive-ISUKF.git
+1) Run this file        Adaptive_ISUKF.m
+2)It Is Running upto  257
+3)THEN SHOWS PSNR,SSIM,FSIM, EPF
