@@ -1,0 +1,10 @@
+#THIS CODE IS DOWNLOAD FROM https://github.com/twtygqyy/pytorch-LapSRN
+#FIRST OF ALL UNZIP THE data/lap_pry_x4_small FILE
+1) TRAINING
+python main_lapsrn.py --cuda
+
+2) TESTING
+python eval.py --model model/model_epoch_100.pth --dataset Set5
+
+3) IMAGE SHOW
+python demo.py --model model/model_epoch_100.pth --image baby_GT --scale 4 --cuda
