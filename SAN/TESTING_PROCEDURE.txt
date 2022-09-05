@@ -1,0 +1,15 @@
+STEP-1: GIT CLONE THIS CODE
+https://github.com/Yukariin/SAN_pytorch
+
+STEP-2: DOWNLOAD THESE MODELS
+Models
+SAN - Scale factor x2 - Noise level 0
+
+SAN - Scale factor x2 - Noise level 1
+
+SAN - Scale factor x4 - Noise level 0
+
+SAN - Scale factor x4 - Noise level 1
+
+STEP-3: RUN THIS COMMAND ON PYTORCH ENVIRONMENT
+python test.py --scale 2 --checkpoint model_n0.pth --image babyx2.png --output SR_output_x2.png
